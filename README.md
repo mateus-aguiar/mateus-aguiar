@@ -106,11 +106,4 @@ Desenvolvedor focado em Backend - Java, SpringBoot, formado em Análise e Desenv
     src="https://github-readme-stats.vercel.app/api?username=mateus-aguiar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-  />
-
 </p>
