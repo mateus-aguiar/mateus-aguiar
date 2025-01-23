@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Desenvolvedor focado em Backend - Java, formado em Análise e Desenvolvimento de Sistemas na Fatec Jundiaí.
+Desenvolvedor focado em Backend - Java, SpringBoot, formado em Análise e Desenvolvimento de Sistemas na Fatec Jundiaí.
 
 ---
 
