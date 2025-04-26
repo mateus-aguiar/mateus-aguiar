@@ -11,32 +11,32 @@ Desenvolvedor focado em Backend - Java, SpringBoot, formado em Análise e Desenv
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Spring"
+    title="Spring" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Docker"
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Mysql"
+    title="Mysql" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
